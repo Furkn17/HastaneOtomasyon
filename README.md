@@ -34,7 +34,7 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilen temel bir Windows Forms t
 
 ## 🧑‍💻 Geliştirici
 
-**Furkan Kswe**  
+**Furkan Yılmaz**  
 🔗 [GitHub Profilim](https://github.com/Furkn17)  
 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/furkan-yılmaz-391703301)
 
